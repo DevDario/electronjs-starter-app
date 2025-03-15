@@ -1,0 +1,29 @@
+{
+  "name": "electronjs-starter-app",
+  "version": "1.0.0",
+  "description": "simple electronjs app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevDario/electronjs-starter-app.git"
+  },
+  "keywords": [
+    "ElectronJS",
+    "Desktop",
+    "App",
+    "Starter",
+    "Project"
+  ],
+  "author": "Dário Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevDario/electronjs-starter-app/issues"
+  },
+  "homepage": "https://github.com/DevDario/electronjs-starter-app#readme",
+  "devDependencies": {
+    "electron": "^35.0.1"
+  }
+}
